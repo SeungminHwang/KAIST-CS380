@@ -1,0 +1,18 @@
+﻿  asst6.cpp
+C:\Users\HwangSeungmin\Documents\CS380HW\hw8_20180736_황승민\asst6.cpp(18,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  geometry.cpp
+C:\Users\HwangSeungmin\Documents\CS380HW\hw8_20180736_황승민\glsupport.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  glsupport.cpp
+C:\Users\HwangSeungmin\Documents\CS380HW\hw8_20180736_황승민\glsupport.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  material.cpp
+C:\Users\HwangSeungmin\Documents\CS380HW\hw8_20180736_황승민\glsupport.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  picker.cpp
+C:\Users\HwangSeungmin\Documents\CS380HW\hw8_20180736_황승민\picker.cpp(1,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  ppm.cpp
+C:\Users\HwangSeungmin\Documents\CS380HW\hw8_20180736_황승민\ppm.cpp(10,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  renderstates.cpp
+C:\Users\HwangSeungmin\Documents\CS380HW\hw8_20180736_황승민\glsupport.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  scenegraph.cpp
+C:\Users\HwangSeungmin\Documents\CS380HW\hw8_20180736_황승민\glsupport.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory
+  texture.cpp
+C:\Users\HwangSeungmin\Documents\CS380HW\hw8_20180736_황승민\glsupport.h(7,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'GL/glew.h': No such file or directory

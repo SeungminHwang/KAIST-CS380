@@ -1,0 +1,5 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  asst6.cpp
+C:\Users\HwangSeungmin\Documents\CS380HW\hw7_20180736_황승민\asst6.cpp(1128,25): warning C4101: 'filename' :참조되지 않은 지역 변수입니다.
+asst6.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  asst2.vcxproj -> C:\Users\HwangSeungmin\Documents\CS380HW\hw7_20180736_황승민\Debug\asst2.exe

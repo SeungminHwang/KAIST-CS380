@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\hkkim\code\cs380-homework-solution\asst1_HW2D\starter\Debug\asst1.exe
+C:\Users\user\Desktop\hkkim\code\cs380-homework-solution\asst1_HW2D\starter\Debug\asst1.pdb
+C:\Users\hwang\Downloads\asst1_v2\starter\Debug\asst1.exe
+C:\Users\hwang\Downloads\asst1_v2\starter\Debug\asst1.pdb

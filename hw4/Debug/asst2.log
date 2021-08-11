@@ -1,0 +1,3 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  asst4.cpp
+  asst2.vcxproj -> C:\Users\HwangSeungmin\Documents\CS380HW\hw4\Debug\asst2.exe
